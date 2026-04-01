@@ -8,6 +8,14 @@
   <img src="docs/screenshot.webp" alt="梯度大师界面预览" width="300"/>
 </p>
 
+## 🎨 生成效果示例
+
+<p align="center">
+  <img src="docs/tierlist-example.webp" alt="梯度表示例 - 物华弥新" width="800"/>
+</p>
+
+> 上图是使用梯度大师生成的《物华弥新》角色梯度表，展示了应用的实际输出效果。
+
 ## 功能特性
 
 - 📊 **梯度表生成**：轻松创建专业的梯度表/排行榜
