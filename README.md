@@ -112,4 +112,8 @@ git clone <repository-url>
 
 ## 致谢
 
+徐惶 - BUG提交与功能建议
+Kimi - K2.5 - 代码生成
+GLM - 5 - 构建优化
+
 感谢所有为这个项目做出贡献的开发者。
