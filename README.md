@@ -79,14 +79,6 @@ git clone <repository-url>
 .\gradlew.bat lintDebug
 ```
 
-## 📥 下载安装
-
-### 最新版本：v1.0.0
-
-[**点击下载 APK 安装包**](https://github.com/Evilgodxu/Tier-Master/releases/download/v1.0.0/梯度大师_1.0.0.apk)
-
-> **提示**：安装时请允许"未知来源应用"安装权限
-
 ---
 
 ## ☕ 打赏支持
@@ -117,5 +109,11 @@ git clone <repository-url>
 欢迎提交 Issue 和 Pull Request 参与项目贡献。
 
 ## 致谢
+
+徐惶 - BUG提交与功能建议
+
+Kimi - K2.5 - 代码生成
+
+GLM - 5 - 构建优化
 
 感谢所有为这个项目做出贡献的开发者。
