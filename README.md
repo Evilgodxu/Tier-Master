@@ -31,7 +31,6 @@
 
 - **语言**：Kotlin
 - **UI框架**：Jetpack Compose + Material Design 3
-- **架构**：MVVM + Repository
 - **最低SDK**：31 (Android 12)
 - **目标SDK**：36
 
@@ -108,14 +107,6 @@ git clone <repository-url>
 
 ---
 
-## 开源协议
-
-本项目采用GPL-3.0开源协议发布，欢迎自由使用和修改。
-
-## 贡献指南
-
-欢迎提交 Issue 和 Pull Request 参与项目贡献。
-
 ## 致谢
 
 徐惶 - BUG提交与功能建议
@@ -123,5 +114,3 @@ git clone <repository-url>
 Kimi - K2.5 - 代码生成
 
 GLM - 5 - 构建优化
-
-感谢所有为这个项目做出贡献的开发者。
